@@ -4,7 +4,8 @@
   "description": "Module 3 Assignment on the edX Asynchronous Programming with Javascript course",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./**/*.js"
   },
   "author": "Jason Browne <jaysunbee@gmail.com>",
   "license": "MIT",
